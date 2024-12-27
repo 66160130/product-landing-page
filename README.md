@@ -1,8 +1,7 @@
 # product-landing-page
 # หน้าแนะนําสินค้า
 เว็บไซต์แนะนําสนค ้าแบบ ิ Responsive สร้างด ้วย HTML และ TailwindCSS
-git clone https://github.com/Korawit07Tar/product-landing-page.git
-git checkout -b development
+git clone https://github.com/66160130/product-landing-page.git
 git add .
 git commit -m “สร้างโครงสร้างโปรเจคเริ่มต้น”
 git push
